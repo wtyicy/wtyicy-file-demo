@@ -16,7 +16,7 @@
    ```xml
     <dependency>
         <groupId>com.github.wtyicy</groupId>
-        <artifactId>wtyicy-file-demo</artifactId>
+        <artifactId>wtyicy-file</artifactId>
         <version>1.0.2</version>
     </dependency>
    ```
