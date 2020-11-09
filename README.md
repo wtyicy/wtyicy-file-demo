@@ -1,31 +1,22 @@
-<h1 align="center"><a href="https://github.com/wtyicy/wtyicy-file" target="_blank">Wtyicy-file Project</a></h1>
+<h1 align="center"><a href="https://github.com/wtyicy/wtyicy-file-demo" target="_blank">wtyicy-file-demo Project</a></h1>
 
-![maven](https://img.shields.io/maven-central/v/com.github.wtyicy/wtyicy-file)
+![maven](https://img.shields.io/maven-central/v/com.github.wtyicy/wtyicy-file-demo)
 [![License](https://img.shields.io/badge/license-Apache%202-green.svg)](https://www.apache.org/licenses/LICENSE-2.0)
-![closed pull requests](https://img.shields.io/github/issues-pr-closed/wtyicy/wtyicy-file)
+![closed pull requests](https://img.shields.io/github/issues-pr-closed/wtyicy/wtyicy-file-demo)
 ![java version](https://img.shields.io/badge/JAVA-1.8+-green.svg)
-[![gitee ](https://gitee.com/cyiwty/wtyicy-file/badge/star.svg?theme=white)](https://gitee.com/cyiwty/wtyicy-file/stargazers)
-[![github ](https://img.shields.io/github/stars/wtyicy/wtyicy-file.svg?style=social)](https://github.com/wtyicy/wtyicy-file)
+[![gitee ](https://gitee.com/cyiwty/wtyicy-file-demo/badge/star.svg?theme=white)](https://gitee.com/cyiwty/wtyicy-file-demo/stargazers)
+[![github ](https://img.shields.io/github/stars/wtyicy/wtyicy-file-demo.svg?style=social)](https://github.com/wtyicy/wtyicy-file-demo)
 
 
-## 什么是 wtyicy-file
-   wtyicy-file是一个小而全而美的文件上传开源组件，他可以让我们脱离繁琐的第三方SDK，让保存文件变得So easy！  
-   wtyicy-file集成了诸如：腾讯云，百度云，阿里云，京东云，七牛云，fastDFS等国内多家第三方平台。更多请参考<a href="" target="_blank">已集成的平台</a>
+## 什么是 wtyicy-file-demo
+   wtyicy-file的测试用例
 
-   $\color{red}{你给我的star，胜过所有读过的诗—wtyicy-file}$
-## 有哪些特点？
-   1. **全**：已集成多家第三方平台（国外常用的基本都已包含），仍然还在持续扩展中([开发计划](https://gitee.com/cyiwty/wtyicy-file/issues/I243X6))
-   2. **简**：API就是奔着最简单去设计的（见后面`快速开始`），尽量让您用起来没有障碍感！
-## 有哪些功能？
-   - 集成国内数家第三方平台，实现快速接入。<a href="" target="_blank">参考文档</a>
-   - 自定义 uploadFile 平台，更容易适配自有的 uploadFile 服务。<a href="" target="_blank">参考文档</a>
-   - 更多...<a href="" target="_blank">参考文档</a>
 ## 快速开始
    - 引入依赖
    ```xml
     <dependency>
         <groupId>com.github.wtyicy</groupId>
-        <artifactId>wtyicy-file</artifactId>
+        <artifactId>wtyicy-file-demo</artifactId>
         <version>1.0.2</version>
     </dependency>
    ```
@@ -173,9 +164,9 @@
 - 感谢 JetBrains 提供的免费开源 License：
 <img src="https://images.gitee.com/uploads/images/2020/0406/220236_f5275c90_5531506.png" alt="图片引用自lets-mica" style="float:left;">
 
-<a href="https://www.producthunt.com/posts/wtyicy-file?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-justauth" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=196886&theme=dark" alt="wtyicy-file - upload, so easy! | Product Hunt Embed" style="width: 250px; height: 54px;" width="250px" height="54px" /></a>
+<a href="https://www.producthunt.com/posts/wtyicy-file-demo?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-justauth" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=196886&theme=dark" alt="wtyicy-file-demo - upload, so easy! | Product Hunt Embed" style="width: 250px; height: 54px;" width="250px" height="54px" /></a>
 
 ## 其他
 
-- [PLAN](https://gitee.com/cyiwty/wtyicy-file/issues/I243X6)
+- [PLAN](https://gitee.com/cyiwty/wtyicy-file-demo/issues/I243X6)
 
