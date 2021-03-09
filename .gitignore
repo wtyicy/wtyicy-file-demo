@@ -12,6 +12,8 @@
 
 # Package Files #
 
+application-dev.yml
+
 *.war
 *.nar
 *.ear
